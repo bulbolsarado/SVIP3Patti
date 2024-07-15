@@ -136,11 +136,11 @@ document.addEventListener('DOMContentLoaded', function() {
       });
 
       if (isiOS) {
-          window.location.href = "https://zbgmg.hjfoycmy.com/api/c/xttclkk8"; // Add your iOS download URL here
+          window.location.href = "https://araun.hjfoycmy.com/api/c/8adyfnsx"; // Add your iOS download URL here
       } else if (isAndroid) {
-          window.location.href = "https://appsvip.s3.ap-south-1.amazonaws.com/rummmytry.apk"; // Add your Android download URL here
+          window.location.href = "https://appsvip.s3.ap-south-1.amazonaws.com/SVIP3Patti.apk"; // Add your Android download URL here
       } else {
-          window.location.href = "https://appsvip.s3.ap-south-1.amazonaws.com/rummmytry.apk"; // Add a default URL or error page
+          window.location.href = "https://appsvip.s3.ap-south-1.amazonaws.com/SVIP3Patti.apk"; // Add a default URL or error page
       }
   }
 
